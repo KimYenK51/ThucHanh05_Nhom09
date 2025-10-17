@@ -1,4 +1,4 @@
-# ThucHanh04_Nhom09
+# ThucHanh05_Nhom09
 Github thực hành 05 của Nhóm 9 - Học phần E07 - Nền tảng công nghệ số
 
 ## Sinh viên thực hiện
