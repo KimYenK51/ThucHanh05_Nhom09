@@ -14,7 +14,9 @@ Github thực hành 05 của Nhóm 9 - Học phần E07 - Nền tảng công ngh
     - **Mã số sinh viên:** B2508385
 
 ## Mô tả nội dung thực hành
-Đây là bài nộp cho buổi thực hành số 05. Trong buổi này, Nhóm em đã thực hiện các nhiệm vụ bao gồm:  Tạo và Chỉnh sửa Nội dung Văn bản Số (gồm Tạo tài liệu báo cáo bằng Google Docs, Hợp tác nhóm trên Google Docs), Tạo và Chỉnh sửa Nội dung Đa phương tiện (gồm Tạo infographic bằng Canva AI, Tạo video ngắn bằng CapCut), Tạo và Quản lý Mã Nguồn (gồm Tạo mã nguồn HTML hiển thị nội dung số, Quản lý phiên bản bằng Git/GitHub)
-
+Đây là bài nộp cho buổi thực hành số 05. Trong buổi này, Nhóm em đã thực hiện các nhiệm vụ bao gồm:  Tạo và Chỉnh sửa Nội dung Văn bản Số, Tạo và Chỉnh sửa Nội dung Đa phương tiện, Tạo và Quản lí mã nguồn
+# Video 30 giây giới thiệu lợi ích của công nghệ số.
+Tạo bằng CapCut, sử dụng hình ảnh từ [Pexels](https://pexels.com) và âm thanh từ [FreeSound](https://freesound.org) (CC0).
+Phát hành theo [giấy phép CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 
