@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Bài tập nộp thầy</title>
+    
+    <style>
+        /* Đặt nền màu xanh dương đậm */
+        body {
+            background-color: darkblue;
+            color: white; 
+            
+            /* THAY ĐỔI: Đổi font chữ sang "Times New Roman".
+              Chúng ta đặt tên font trong dấu ngoặc kép vì nó có dấu cách.
+              "serif" là font dự phòng nếu "Times New Roman" không tải được.
+            */
+            font-family: "Times New Roman", serif; 
+        }
+
+        /* Căn giữa các tiêu đề <h1> */
+        h1 {
+            text-align: center;
+        }
+
+        /* Style cho video và ảnh */
+        img, video {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 15px auto;
+            border: 2px solid white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Infographic</h1>
+    
+    <img src="My infographic.png" alt="Mô tả infographic">
+    
+    <hr>
+
+    <h1>Video</h1>
+
+    <video controls width="800">
+        <source src="video.mp4" type="video/mp4">
+        Trình duyệt của bạn không hỗ trợ video này.
+    </video>
+
+</body>
+</html>
