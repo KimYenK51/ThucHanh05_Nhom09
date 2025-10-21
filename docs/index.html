@@ -1,55 +1,45 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Bài tập nộp thầy</title>
-    
-    <style>
-        /* Đặt nền màu xanh dương đậm */
-        body {
-            background-color: darkblue;
-            color: white; 
-            
-            /* THAY ĐỔI: Đổi font chữ sang "Times New Roman".
-              Chúng ta đặt tên font trong dấu ngoặc kép vì nó có dấu cách.
-              "serif" là font dự phòng nếu "Times New Roman" không tải được.
-            */
-            font-family: "Times New Roman", serif; 
-        }
-
-        /* Căn giữa các tiêu đề <h1> */
-        h1 {
-            text-align: center;
-        }
-
-        /* Style cho video và ảnh */
-        img, video {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 15px auto;
-            border: 2px solid white;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Infographic and Video</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 40px;
+      /* --- Bổ sung 2 dòng dưới đây --- */
+      background-color: #04045e; /* Màu xanh than (Navy) */
+      color: white;             /* Đổi màu chữ thành trắng để dễ đọc */
+    }
+    img {
+      max-width: 50%;
+      height: auto;
+      /* --- Bổ sung 3 dòng dưới đây --- */
+      border: 3px solid white;  /* Thêm viền trắng 3px */
+      border-radius: 10px;      /* Bo góc 10px */
+      box-sizing: border-box; /* Giữ kích thước chuẩn khi thêm viền */
+    }
+    video {
+      max-width: 80%;
+      margin-top: 20px;
+      /* --- Bổ sung 3 dòng dưới đây --- */
+      border: 3px solid white;  /* Thêm viền trắng 3px */
+      border-radius: 10px;      /* Bo góc 10px */
+      box-sizing: border-box; /* Giữ kích thước chuẩn khi thêm viền */
+    }
+  </style>
 </head>
 <body>
+  <h1>INFOGRAPHIC AND VIDEO MP4 MINH HỌA</h1>
 
-    <h1>Infographic</h1>
-    
-    <img src="My infographic.png" alt="Mô tả infographic">
-    
-    <hr>
+  <h2>_Infographic_</h2>
+  <img src="My infographic.png" alt="Infographic mô tả dữ liệu">
 
-    <h1>Video</h1>
-
-    <video controls width="800">
-        <source src="Video.mp4" type="video/mp4">
-        Trình duyệt của bạn không hỗ trợ video này.
-    </video>
-
+  <h2>_Video MP4_</h2>
+  <video controls>
+    <source src="Video.mp4" type="video/mp4">
+    Trình duyệt của bạn không hỗ trợ video.
+  </video>
 </body>
-
 </html>
